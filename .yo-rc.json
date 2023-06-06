@@ -3,11 +3,11 @@
         "application": "ganttdemo",
         "namespace": "com.myorg",
         "framework": "SAPUI5",
-        "frameworkVersion": "1.110.0",
+        "frameworkVersion": "1.114.0",
         "author": "Xucong Zhan",
         "initrepo": true,
         "tstypes": "@sapui5/types",
-        "tstypesVersion": "1.110.0",
+        "tstypesVersion": "1.114.0",
         "appId": "com.myorg.ganttdemo",
         "appURI": "com/myorg/ganttdemo",
         "setupCompleted": true
